@@ -2,8 +2,10 @@
 
 # ESD21 - Automated Software Testing
 
-### Aluna: 
+### Integrantes do grupo: 
 ##### Danieli Silva dos Santos
+##### Caique Centini
+##### Wagner Soares
 
 ## Atividade:
 
