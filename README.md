@@ -3,8 +3,8 @@
 # ESD21 - Automated Software Testing
 
 ### Integrantes do grupo: 
-Amanda Botelho de Moraes
-Bruna Vieira Teixeira
+############Amanda Botelho de Moraes
+############Bruna Vieira Teixeira
 
 ## Atividade:
 
