@@ -3,9 +3,8 @@
 # ESD21 - Automated Software Testing
 
 ### Integrantes do grupo: 
-##### Danieli Silva dos Santos
-##### Caique Centini
-##### Wagner Soares
+Amanda Botelho de Moraes
+Bruna Vieira Teixeira
 
 ## Atividade:
 
@@ -22,17 +21,3 @@ Assert
 2. Gherkin
 3. JDK 11
 
-# Como Executar:
-
-1. Execute a classe Runner com o testng
-2. Após a execução, no terminal, clique no link do relatório para visualizar detalhes dos testes executados:
-│ View your Cucumber Report at:                                            │
-│ https://reports.cucumber.io/reports/
-
-
-# Construído com:
-
-1. Cucumber (BDD)
-2. RestAssured
-3. cucumber-testng
-4. cucumber-junit

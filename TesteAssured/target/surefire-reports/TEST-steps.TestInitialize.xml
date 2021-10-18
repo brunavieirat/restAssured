@@ -5,7 +5,7 @@
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.9.1+1-Ubuntu-0ubuntu1.20.04"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/jdk-11.0.8/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/opah/Documentos/TesteGloboQA"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/opah/Documentos/TesteAssured"/>
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="BR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/opah/Documentos/TesteGloboQA"/>
+    <property name="user.dir" value="/home/opah/Documentos/TesteAssured"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="11.0.9.1+1-Ubuntu-0ubuntu1.20.04"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
